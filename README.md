@@ -1,4 +1,4 @@
-Linh source FE: https://github.com/billtai26/Trello_clone.git
+### Link source FE: https://github.com/billtai26/Trello_clone.git
 ### Các bước tiến hành chạy
 
 * Bước 1: Cài đặt yarn trên CMD của laptop bằng lệnh: npm install --global yarn
